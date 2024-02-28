@@ -1,0 +1,1 @@
+{:S-reduction-rate 1000000.0, :scrolling-log true, :time 100.0, :reporting-period 1, :jid nil, :condensation-rate 1.0, :seed 42, :size 1000, :volume nil, :threads 1, :reduction-rate 10000.0, :base "SKI", :time-metric "seconds", :log "reactiontype_0228"}
